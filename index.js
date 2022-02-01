@@ -1,0 +1,1 @@
+let url = "https://api.nbp.pl/api/exchangerates/tables/a/last/?format=json"
